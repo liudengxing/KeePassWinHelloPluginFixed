@@ -109,6 +109,7 @@
 - `dist/KeePassWinHelloPlugin.plgx`
 - 大小：72,838 字节
 - 内部程序集版本：3.3.2.0
+- SHA256：`9a94d66627494f711d6b55ed5b86fa0ce8c55a7eda07e65912602b64f164f946`
 
 ## 已验证 / 未验证
 
