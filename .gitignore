@@ -1,0 +1,14 @@
+# Build artifacts
+bin/
+obj/
+releases/
+lib/
+
+# Local/compiler outputs
+*.user
+*.suo
+KeePassWinHello_test.dll
+*.pdb
+
+# Keep the distributed plugin
+!dist/*.plgx
